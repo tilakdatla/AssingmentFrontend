@@ -1,6 +1,6 @@
 import React from "react"
 import "./css/style.css"
-import Entry from "./components/entry"
+import Entry from "./components/Entry"
 import Button from "./components/Button"
 import History from "./components/History"
 import axios from "axios"
